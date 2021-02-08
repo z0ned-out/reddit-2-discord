@@ -9,7 +9,7 @@ webhook_url = "YOUR DISCORD WEBHOOK URL HERE"
 limit = 10
 
 # Add subreddits to track. You can use as much as subreddit you want.
-subreddits = ['subreddit1', 'subreddit2']
+subreddits = ['subreddit1+subreddit2+subreddit3+(add as many subreddits as you like)']
 
 
 # Reddit information
