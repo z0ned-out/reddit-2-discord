@@ -1,5 +1,4 @@
 #libraries required
 praw
 requests
-schedule
 config
