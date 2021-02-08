@@ -1,11 +1,8 @@
 import praw
 import time
-import os
 import requests
-import json
 import random
 import config
-import schedule
 from time import sleep
 
 
